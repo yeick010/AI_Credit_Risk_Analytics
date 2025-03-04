@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+xgboost
+torch
+flask
+fastapi
+mlflow
+dvc
+boto3

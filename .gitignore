@@ -1,0 +1,7 @@
+# Ignora file di dati
+data/*.csv
+data/*.json
+models/*.pkl
+__pycache__/
+.ipynb_checkpoints/
+
